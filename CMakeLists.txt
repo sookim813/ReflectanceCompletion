@@ -2,12 +2,7 @@
 #
 # - Codename:  Image Completion with Intrinsic Reflectance Guidance (BMVC 2017)
 #
-# - Writers:   Soomin Kim (soo.kim813@gmail.com)
-#
-# - Institute: KAIST SGVR Lab
-#
 # - Bibtex:
-#
 # @InProceedings{Inpainting:BMVC:2017,
 #  author  = {Soomin Kim and Taeyoung Kim and Min H. Kim and Sung-Eui Yoon},
 #  title   = {Image Completion with Intrinsic Reflectance Guidance},
